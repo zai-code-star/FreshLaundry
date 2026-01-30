@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_fresh">#000000</color> <!-- biru utama -->
+    <color name="blue_fresh_dark">#222324</color> <!-- untuk status bar -->
+    <color name="blue_soft">#39393A</color> <!-- warna sekunder, lembut -->
+    <color name="white">#FFFFFF</color>
+</resources>

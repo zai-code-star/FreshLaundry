@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">adminapp</string>
+    <string-array name="status_list">
+        <item>Diterima</item>
+        <item>Penjemputan</item>
+        <item>Kurir Sampai Dilokasimu</item>
+        <item>Pengantaran</item>
+        <item>Diproses</item>
+        <item>Selesai</item>
+        <item>Dibatalkan</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

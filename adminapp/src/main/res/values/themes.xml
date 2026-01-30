@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FreshLaundry" parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- Warna tema utama -->
+        <item name="colorPrimary">@color/blue_fresh</item>
+        <item name="colorPrimaryVariant">@color/blue_fresh_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Warna latar belakang dan elemen lain -->
+        <item name="colorSecondary">@color/blue_soft</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/blue_fresh</item>
+        <item name="android:navigationBarColor">@color/blue_fresh</item>
+    </style>
+
+    <style name="Theme.FreshLaundry" parent="Base.Theme.FreshLaundry" />
+</resources>
