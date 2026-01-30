@@ -206,26 +206,26 @@ Aplikasi ini menggunakan:
 
 ---
 
-## 📦 Download Aplikasi
+## Download Aplikasi
 
 FreshLaundry terdiri dari **2 aplikasi Android terpisah**
 
 ---
 
-### 📱 FreshLaundry – Aplikasi Pelanggan
+### FreshLaundry – Aplikasi Pelanggan
 
 <p align="center">
-  👉 <a href="https://drive.google.com/file/d/LINK_APK_PELANGGAN/view?usp=sharing" target="_blank">
+   <a href="https://drive.google.com/file/d/1EnAGuutx6ny9vrv4daoWonfO8RwJvMG8/view?usp=sharing" target="_blank">
     <b>Download APK FreshLaundry Pelanggan</b>
   </a>
 </p>
 
 ---
 
-### 🧑‍💼🚚 FreshLaundry – Aplikasi Admin & Kurir
+### FreshLaundry – Aplikasi Admin & Kurir
 
 <p align="center">
-  👉 <a href="https://drive.google.com/file/d/LINK_APK_ADMIN_KURIR/view?usp=sharing" target="_blank">
+   <a href="https://drive.google.com/file/d/1UTPqvDqdEq12h5cAxYyKnEFl_5bXkfAz/view?usp=sharing" target="_blank">
     <b>Download APK FreshLaundry Admin & Kurir</b>
   </a>
 </p>
