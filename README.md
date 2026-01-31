@@ -235,3 +235,12 @@ FreshLaundry terdiri dari **2 aplikasi Android terpisah**
 > ⚠️ **Catatan Instalasi**
 > - Aktifkan **Install from Unknown Sources** di pengaturan Android
 
+## License
+
+This project is licensed under **All Rights Reserved**.
+
+The APK file is provided for **demo and personal use only**.
+All source code, assets, and documentation in this repository are the exclusive property of the author.  
+No part of this project may be copied, modified, or used for commercial purposes without explicit permission.
+
+© 2026 Zainul Muhajir
